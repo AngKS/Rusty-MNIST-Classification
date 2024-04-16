@@ -1,6 +1,6 @@
 # Rusty: Image Classification using MNIST Dataset
 <!-- add gif image -->
-[training]()
+![training](https://github.com/AngKS/Rusty-MNIST-Classification/blob/master/assets/training.gif?raw=true)
 
 ## Introduction
 This project is a Rust implementation of a simple neural network that classifies images from the MNIST dataset. The neural network is a simple feedforward neural network with 2 Convolutional layers, 1 adaptive Pooling layer, and 2 hidden layers. The network is trained using the backpropagation algorithm. The project is implemented using the Rust programming language.
